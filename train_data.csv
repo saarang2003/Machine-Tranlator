@@ -1,0 +1,210 @@
+0,English,Hindi,English_Tokens,Hindi_Tokens,Alignment_Flag
+Do you speak English? - क्या आप अंग्रेज़ी बोलते हैं?,Do you speak English? , क्या आप अंग्रेज़ी बोलते हैं?,"['▁Do', '▁you', '▁speak', '▁English', '?']","['▁क्या', '▁आप', '▁अंग्रेज़ी', '▁बोलते', '▁हैं', '?']",False
+I want to visit a temple. - मुझे एक मंदिर जाना है।,I want to visit a temple. , मुझे एक मंदिर जाना है।,"['▁I', '▁want', '▁to', '▁visit', '▁a', '▁temple', '.']","['▁मुझे', '▁एक', '▁मंदिर', '▁जाना', '▁है', '।']",False
+Let's go now - चलो अब चलें,Let's go now , चलो अब चलें,"['▁Let', ""'"", 's', '▁go', '▁now']","['▁चलो', '▁अब', '▁चलें']",False
+I am interested in photography. - मुझे फोटोग्राफी में रुचि है।,I am interested in photography. , मुझे फोटोग्राफी में रुचि है।,"['▁I', '▁am', '▁interested', '▁in', '▁photography', '.']","['▁मुझे', '▁फोटोग्राफी', '▁में', '▁रुचि', '▁है', '।']",False
+Can I borrow your phone charger? - क्या मैं आपका फोन चार्जर उधार ले सकता हूँ?,Can I borrow your phone charger? , क्या मैं आपका फोन चार्जर उधार ले सकता हूँ?,"['▁Can', '▁I', '▁borrow', '▁your', '▁phone', '▁charger', '?']","['▁क्या', '▁मैं', '▁आपका', '▁फोन', '▁चार्जर', '▁उधार', '▁ले', '▁सकता', '▁हूँ', '?']",False
+I feel great - मुझे बहुत अच्छा महसूस हो रहा है,I feel great , मुझे बहुत अच्छा महसूस हो रहा है,"['▁I', '▁feel', '▁great']","['▁मुझे', '▁बहुत', '▁अच्छा', '▁महसूस', '▁हो', '▁रहा', '▁है']",False
+I have a question - मेरे पास एक सवाल है,I have a question , मेरे पास एक सवाल है,"['▁I', '▁have', '▁a', '▁question']","['▁मेरे', '▁पास', '▁एक', '▁सवाल', '▁है']",False
+Where can I buy medicine? - मैं दवा कहाँ खरीद सकता हूँ?,Where can I buy medicine? , मैं दवा कहाँ खरीद सकता हूँ?,"['▁Where', '▁can', '▁I', '▁buy', '▁medicine', '?']","['▁मैं', '▁दवा', '▁कहाँ', '▁खरीद', '▁सकता', '▁हूँ', '?']",False
+What is the time now? - अब क्या समय हुआ है?,What is the time now? , अब क्या समय हुआ है?,"['▁What', '▁is', '▁the', '▁time', '▁now', '?']","['▁अब', '▁क्या', '▁समय', '▁हुआ', '▁है', '?']",False
+I am happy - मैं खुश हूं,I am happy , मैं खुश हूं,"['▁I', '▁am', '▁happy']","['▁मैं', '▁खुश', '▁हूं']",False
+Where is the nearest restaurant? - सबसे नज़दीकी रेस्टोरेंट कहाँ है?,Where is the nearest restaurant? , सबसे नज़दीकी रेस्टोरेंट कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁restaurant', '?']","['▁सबसे', '▁नज़दीकी', '▁रेस्टोरेंट', '▁कहाँ', '▁है', '?']",False
+This is a beautiful painting. - यह एक सुंदर पेंटिंग है।,This is a beautiful painting. , यह एक सुंदर पेंटिंग है।,"['▁This', '▁is', '▁a', '▁beautiful', '▁painting', '.']","['▁यह', '▁एक', '▁सुंदर', '▁पेंटिंग', '▁है', '।']",False
+Can I pay by card? - क्या मैं कार्ड से भुगतान कर सकता हूँ?,Can I pay by card? , क्या मैं कार्ड से भुगतान कर सकता हूँ?,"['▁Can', '▁I', '▁pay', '▁by', '▁card', '?']","['▁क्या', '▁मैं', '▁कार्ड', '▁से', '▁भुगतान', '▁कर', '▁सकता', '▁हूँ', '?']",False
+Can you speak Hindi? - क्या आप हिंदी बोल सकते हैं?,Can you speak Hindi? , क्या आप हिंदी बोल सकते हैं?,"['▁Can', '▁you', '▁speak', '▁Hindi', '?']","['▁क्या', '▁आप', '▁हिंदी', '▁बोल', '▁सकते', '▁हैं', '?']",False
+Come with me - मेरे साथ आइए,Come with me , मेरे साथ आइए,"['▁Come', '▁with', '▁me']","['▁मेरे', '▁साथ', '▁आइए']",False
+This place is beautiful - यह जगह बहुत सुंदर है,This place is beautiful , यह जगह बहुत सुंदर है,"['▁This', '▁place', '▁is', '▁beautiful']","['▁यह', '▁जगह', '▁बहुत', '▁सुंदर', '▁है']",False
+It’s too cold outside. - बाहर बहुत ठंड है।,It’s too cold outside. , बाहर बहुत ठंड है।,"['▁It', '’', 's', '▁too', '▁cold', '▁outside', '.']","['▁बाहर', '▁बहुत', '▁ठंड', '▁है', '।']",False
+My name is Rahul - मेरा नाम राहुल है,My name is Rahul , मेरा नाम राहुल है,"['▁My', '▁name', '▁is', '▁', 'R', 'ahul']","['▁मेरा', '▁नाम', '▁राहुल', '▁है']",False
+I’m planning to travel next year. - मैं अगले साल यात्रा करने की योजना बना रहा हूँ।,I’m planning to travel next year. , मैं अगले साल यात्रा करने की योजना बना रहा हूँ।,"['▁I', '’', 'm', '▁planning', '▁to', '▁travel', '▁next', '▁year', '.']","['▁मैं', '▁अगले', '▁साल', '▁यात्रा', '▁करने', '▁की', '▁योजना', '▁बना', '▁रहा', '▁हूँ', '।']",False
+Please wait a moment - कृपया एक क्षण इंतजार करें,Please wait a moment , कृपया एक क्षण इंतजार करें,"['▁Please', '▁wait', '▁a', '▁moment']","['▁कृपया', '▁एक', '▁क्षण', '▁इंतजार', '▁करें']",False
+I like reading books - मुझे किताबें पढ़ना पसंद है,I like reading books , मुझे किताबें पढ़ना पसंद है,"['▁I', '▁like', '▁reading', '▁books']","['▁मुझे', '▁किताबें', '▁पढ़ना', '▁पसंद', '▁है']",False
+I want to buy some souvenirs. - मुझे कुछ स्मृति चिन्ह खरीदने हैं।,I want to buy some souvenirs. , मुझे कुछ स्मृति चिन्ह खरीदने हैं।,"['▁I', '▁want', '▁to', '▁buy', '▁some', '▁souvenirs', '.']","['▁मुझे', '▁कुछ', '▁स्मृति', '▁चिन्ह', '▁खरीदने', '▁हैं', '।']",False
+I prefer coffee - मुझे कॉफी पसंद है,I prefer coffee , मुझे कॉफी पसंद है,"['▁I', '▁prefer', '▁coffee']","['▁मुझे', '▁कॉफी', '▁पसंद', '▁है']",False
+I love this song - मुझे यह गाना बहुत पसंद है,I love this song , मुझे यह गाना बहुत पसंद है,"['▁I', '▁love', '▁this', '▁song']","['▁मुझे', '▁यह', '▁गाना', '▁बहुत', '▁पसंद', '▁है']",False
+May I use your phone? - क्या मैं आपका फ़ोन इस्तेमाल कर सकता हूँ?,May I use your phone? , क्या मैं आपका फ़ोन इस्तेमाल कर सकता हूँ?,"['▁May', '▁I', '▁use', '▁your', '▁phone', '?']","['▁क्या', '▁मैं', '▁आपका', '▁फ़ोन', '▁इस्तेमाल', '▁कर', '▁सकता', '▁हूँ', '?']",False
+How long have you been here? - आप यहाँ कितने समय से हैं?,How long have you been here? , आप यहाँ कितने समय से हैं?,"['▁How', '▁long', '▁have', '▁you', '▁been', '▁here', '?']","['▁आप', '▁यहाँ', '▁कितने', '▁समय', '▁से', '▁हैं', '?']",False
+This is too expensive for me - यह मेरे लिए बहुत महंगा है,This is too expensive for me , यह मेरे लिए बहुत महंगा है,"['▁This', '▁is', '▁too', '▁expensive', '▁for', '▁me']","['▁यह', '▁मेरे', '▁लिए', '▁बहुत', '▁महंगा', '▁है']",False
+I am feeling better - मुझे अब बेहतर महसूस हो रहा है,I am feeling better , मुझे अब बेहतर महसूस हो रहा है,"['▁I', '▁am', '▁feeling', '▁better']","['▁मुझे', '▁अब', '▁बेहतर', '▁महसूस', '▁हो', '▁रहा', '▁है']",False
+Turn left - बाएँ मुड़िए,Turn left , बाएँ मुड़िए,"['▁Turn', '▁left']","['▁बाएँ', '▁मुड़िए']",False
+I’m going to the supermarket. - मैं सुपरमार्केट जा रहा हूँ।,I’m going to the supermarket. , मैं सुपरमार्केट जा रहा हूँ।,"['▁I', '’', 'm', '▁going', '▁to', '▁the', '▁supermarket', '.']","['▁मैं', '▁सुपरमार्केट', '▁जा', '▁रहा', '▁हूँ', '।']",False
+Where is the bathroom? - बाथरूम कहाँ है?,Where is the bathroom? , बाथरूम कहाँ है?,"['▁Where', '▁is', '▁the', '▁bathroom', '?']","['▁बाथरूम', '▁कहाँ', '▁है', '?']",False
+Please help me - कृपया मेरी मदद करें,Please help me , कृपया मेरी मदद करें,"['▁Please', '▁help', '▁me']","['▁कृपया', '▁मेरी', '▁मदद', '▁करें']",False
+Where are you from? - आप कहां से हैं?,Where are you from? , आप कहां से हैं?,"['▁Where', '▁are', '▁you', '▁from', '?']","['▁आप', '▁कहां', '▁से', '▁हैं', '?']",False
+This is my favorite place - यह मेरी पसंदीदा जगह है,This is my favorite place , यह मेरी पसंदीदा जगह है,"['▁This', '▁is', '▁my', '▁favorite', '▁place']","['▁यह', '▁मेरी', '▁पसंदीदा', '▁जगह', '▁है']",False
+Can I have some water? - क्या मुझे थोड़ा पानी मिल सकता है?,Can I have some water? , क्या मुझे थोड़ा पानी मिल सकता है?,"['▁Can', '▁I', '▁have', '▁some', '▁water', '?']","['▁क्या', '▁मुझे', '▁थोड़ा', '▁पानी', '▁मिल', '▁सकता', '▁है', '?']",False
+I’ll be there in 10 minutes. - मैं 10 मिनट में वहाँ पहुँच रहा हूँ।,I’ll be there in 10 minutes. , मैं 10 मिनट में वहाँ पहुँच रहा हूँ।,"['▁I', '’', 'll', '▁be', '▁there', '▁in', '▁10', '▁minutes', '.']","['▁मैं', '▁10', '▁मिनट', '▁में', '▁वहाँ', '▁पहुँच', '▁रहा', '▁हूँ', '।']",False
+I don’t have time - मेरे पास समय नहीं है,I don’t have time , मेरे पास समय नहीं है,"['▁I', '▁don', '’', 't', '▁have', '▁time']","['▁मेरे', '▁पास', '▁समय', '▁नहीं', '▁है']",False
+I am thirsty - मुझे प्यास लगी है,I am thirsty , मुझे प्यास लगी है,"['▁I', '▁am', '▁thirsty']","['▁मुझे', '▁प्यास', '▁लगी', '▁है']",False
+This is my phone number - यह मेरा फोन नंबर है,This is my phone number , यह मेरा फोन नंबर है,"['▁This', '▁is', '▁my', '▁phone', '▁number']","['▁यह', '▁मेरा', '▁फोन', '▁नंबर', '▁है']",False
+Speak loudly - ज़ोर से बोलिए,Speak loudly , ज़ोर से बोलिए,"['▁Speak', '▁loudly']","['▁ज़ोर', '▁से', '▁बोलिए']",False
+"Can I have the bill, please? - क्या मुझे बिल मिल सकता है?","Can I have the bill, please? ", क्या मुझे बिल मिल सकता है?,"['▁Can', '▁I', '▁have', '▁the', '▁bill', ',', '▁please', '?']","['▁क्या', '▁मुझे', '▁बिल', '▁मिल', '▁सकता', '▁है', '?']",False
+Don't forget your passport - अपना पासपोर्ट भूलना मत,Don't forget your passport , अपना पासपोर्ट भूलना मत,"['▁Don', ""'"", 't', '▁forget', '▁your', '▁passport']","['▁अपना', '▁पासपोर्ट', '▁भूलना', '▁मत']",False
+I don't like this - मुझे यह पसंद नहीं है,I don't like this , मुझे यह पसंद नहीं है,"['▁I', '▁don', ""'"", 't', '▁like', '▁this']","['▁मुझे', '▁यह', '▁पसंद', '▁नहीं', '▁है']",False
+I am feeling hot - मुझे गर्मी लग रही है,I am feeling hot , मुझे गर्मी लग रही है,"['▁I', '▁am', '▁feeling', '▁hot']","['▁मुझे', '▁गर्मी', '▁लग', '▁रही', '▁है']",False
+Let's celebrate - चलो जश्न मनाते हैं,Let's celebrate , चलो जश्न मनाते हैं,"['▁Let', ""'"", 's', '▁celebrate']","['▁चलो', '▁जश्न', '▁मनाते', '▁हैं']",False
+Don't be late - देर मत कीजिए,Don't be late , देर मत कीजिए,"['▁Don', ""'"", 't', '▁be', '▁late']","['▁देर', '▁मत', '▁कीजिए']",False
+How are you? - आप कैसे हैं?,How are you? , आप कैसे हैं?,"['▁How', '▁are', '▁you', '?']","['▁आप', '▁कैसे', '▁हैं', '?']",False
+I need to buy groceries. - मुझे किराने का सामान खरीदना है।,I need to buy groceries. , मुझे किराने का सामान खरीदना है।,"['▁I', '▁need', '▁to', '▁buy', '▁groceries', '.']","['▁मुझे', '▁किराने', '▁का', '▁सामान', '▁खरीदना', '▁है', '।']",False
+Can you speak slower? - क्या आप धीमा बोल सकते हैं?,Can you speak slower? , क्या आप धीमा बोल सकते हैं?,"['▁Can', '▁you', '▁speak', '▁slower', '?']","['▁क्या', '▁आप', '▁धीमा', '▁बोल', '▁सकते', '▁हैं', '?']",False
+I am fine - मैं ठीक हूं,I am fine , मैं ठीक हूं,"['▁I', '▁am', '▁fine']","['▁मैं', '▁ठीक', '▁हूं']",False
+Good morning - सुप्रभात,Good morning , सुप्रभात,"['▁Good', '▁morning']",['▁सुप्रभात'],False
+Where can I buy a SIM card? - मैं सिम कार्ड कहाँ खरीद सकता हूँ?,Where can I buy a SIM card? , मैं सिम कार्ड कहाँ खरीद सकता हूँ?,"['▁Where', '▁can', '▁I', '▁buy', '▁a', '▁SIM', '▁card', '?']","['▁मैं', '▁सिम', '▁कार्ड', '▁कहाँ', '▁खरीद', '▁सकता', '▁हूँ', '?']",False
+Move forward - आगे बढ़िए,Move forward , आगे बढ़िए,"['▁Move', '▁forward']","['▁आगे', '▁बढ़िए']",False
+I am here on vacation - मैं यहाँ छुट्टी पर हूँ,I am here on vacation , मैं यहाँ छुट्टी पर हूँ,"['▁I', '▁am', '▁here', '▁on', '▁vacation']","['▁मैं', '▁यहाँ', '▁छुट्टी', '▁पर', '▁हूँ']",False
+It's very hot today - आज बहुत गर्मी है,It's very hot today , आज बहुत गर्मी है,"['▁It', ""'"", 's', '▁very', '▁hot', '▁today']","['▁आज', '▁बहुत', '▁गर्मी', '▁है']",False
+I want to join the gym. - मैं जिम जॉइन करना चाहता हूँ।,I want to join the gym. , मैं जिम जॉइन करना चाहता हूँ।,"['▁I', '▁want', '▁to', '▁join', '▁the', '▁gym', '.']","['▁मैं', '▁जिम', '▁जॉइन', '▁करना', '▁चाहता', '▁हूँ', '।']",False
+I need to buy a new pair of shoes. - मुझे एक नया जोड़ा जूते खरीदना है।,I need to buy a new pair of shoes. , मुझे एक नया जोड़ा जूते खरीदना है।,"['▁I', '▁need', '▁to', '▁buy', '▁a', '▁new', '▁pair', '▁of', '▁shoes', '.']","['▁मुझे', '▁एक', '▁नया', '▁जोड़ा', '▁जूते', '▁खरीदना', '▁है', '।']",False
+This is very confusing. - यह बहुत उलझन में डालने वाला है।,This is very confusing. , यह बहुत उलझन में डालने वाला है।,"['▁This', '▁is', '▁very', '▁confusing', '.']","['▁यह', '▁बहुत', '▁उलझन', '▁में', '▁डालने', '▁वाला', '▁है', '।']",False
+Where is the tourist center? - टूरिस्ट सेंटर कहाँ है?,Where is the tourist center? , टूरिस्ट सेंटर कहाँ है?,"['▁Where', '▁is', '▁the', '▁tourist', '▁center', '?']","['▁टूरिस्ट', '▁सेंटर', '▁कहाँ', '▁है', '?']",False
+I don't have money - मेरे पास पैसे नहीं हैं,I don't have money , मेरे पास पैसे नहीं हैं,"['▁I', '▁don', ""'"", 't', '▁have', '▁money']","['▁मेरे', '▁पास', '▁पैसे', '▁नहीं', '▁हैं']",False
+I need a charger - मुझे चार्जर चाहिए,I need a charger , मुझे चार्जर चाहिए,"['▁I', '▁need', '▁a', '▁charger']","['▁मुझे', '▁चार्जर', '▁चाहिए']",False
+I would like some tea - मुझे चाय चाहिए,I would like some tea , मुझे चाय चाहिए,"['▁I', '▁would', '▁like', '▁some', '▁tea']","['▁मुझे', '▁चाय', '▁चाहिए']",False
+I don't eat meat - मैं मांस नहीं खाता हूँ,I don't eat meat , मैं मांस नहीं खाता हूँ,"['▁I', '▁don', ""'"", 't', '▁eat', '▁meat']","['▁मैं', '▁मांस', '▁नहीं', '▁खाता', '▁हूँ']",False
+Please write it down - कृपया इसे लिख दीजिए,Please write it down , कृपया इसे लिख दीजिए,"['▁Please', '▁write', '▁it', '▁down']","['▁कृपया', '▁इसे', '▁लिख', '▁दीजिए']",False
+Can I sit here? - क्या मैं यहाँ बैठ सकता हूँ?,Can I sit here? , क्या मैं यहाँ बैठ सकता हूँ?,"['▁Can', '▁I', '▁sit', '▁here', '?']","['▁क्या', '▁मैं', '▁यहाँ', '▁बैठ', '▁सकता', '▁हूँ', '?']",False
+I’ll see you later. - मैं आपको बाद में मिलूंगा।,I’ll see you later. , मैं आपको बाद में मिलूंगा।,"['▁I', '’', 'll', '▁see', '▁you', '▁later', '.']","['▁मैं', '▁आपको', '▁बाद', '▁में', '▁मिलूंगा', '।']",False
+Please sit down - कृपया बैठिए,Please sit down , कृपया बैठिए,"['▁Please', '▁sit', '▁down']","['▁कृपया', '▁बैठिए']",False
+I need a new pair of glasses. - मुझे नए चश्मे की ज़रूरत है।,I need a new pair of glasses. , मुझे नए चश्मे की ज़रूरत है।,"['▁I', '▁need', '▁a', '▁new', '▁pair', '▁of', '▁glasses', '.']","['▁मुझे', '▁नए', '▁चश्मे', '▁की', '▁ज़रूरत', '▁है', '।']",False
+Hurry up - जल्दी कीजिए,Hurry up , जल्दी कीजिए,"['▁Hurry', '▁up']","['▁जल्दी', '▁कीजिए']",False
+How old are you? - आप कितने साल के हैं?,How old are you? , आप कितने साल के हैं?,"['▁How', '▁old', '▁are', '▁you', '?']","['▁आप', '▁कितने', '▁साल', '▁के', '▁हैं', '?']",False
+I am going to the gym. - मैं जिम जा रहा हूँ।,I am going to the gym. , मैं जिम जा रहा हूँ।,"['▁I', '▁am', '▁going', '▁to', '▁the', '▁gym', '.']","['▁मैं', '▁जिम', '▁जा', '▁रहा', '▁हूँ', '।']",False
+I need to pay the bills. - मुझे बिल का भुगतान करना है।,I need to pay the bills. , मुझे बिल का भुगतान करना है।,"['▁I', '▁need', '▁to', '▁pay', '▁the', '▁bills', '.']","['▁मुझे', '▁बिल', '▁का', '▁भुगतान', '▁करना', '▁है', '।']",False
+I want to learn to play the guitar. - मैं गिटार बजाना सीखना चाहता हूँ।,I want to learn to play the guitar. , मैं गिटार बजाना सीखना चाहता हूँ।,"['▁I', '▁want', '▁to', '▁learn', '▁to', '▁play', '▁the', '▁guitar', '.']","['▁मैं', '▁गिटार', '▁बजाना', '▁सीखना', '▁चाहता', '▁हूँ', '।']",False
+I can’t find my keys - मुझे अपनी चाबी नहीं मिल रही है,I can’t find my keys , मुझे अपनी चाबी नहीं मिल रही है,"['▁I', '▁can', '’', 't', '▁find', '▁my', '▁keys']","['▁मुझे', '▁अपनी', '▁चाबी', '▁नहीं', '▁मिल', '▁रही', '▁है']",False
+What time is it? - कितने बजे हैं?,What time is it? , कितने बजे हैं?,"['▁What', '▁time', '▁is', '▁it', '?']","['▁कितने', '▁बजे', '▁हैं', '?']",False
+What is the price? - कीमत क्या है?,What is the price? , कीमत क्या है?,"['▁What', '▁is', '▁the', '▁price', '?']","['▁कीमत', '▁क्या', '▁है', '?']",False
+Where is the nearest airport? - सबसे नज़दीकी एयरपोर्ट कहाँ है?,Where is the nearest airport? , सबसे नज़दीकी एयरपोर्ट कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁airport', '?']","['▁सबसे', '▁नज़दीकी', '▁एयरपोर्ट', '▁कहाँ', '▁है', '?']",False
+I am looking for a good deal. - मैं एक अच्छा सौदा ढूंढ रहा हूँ।,I am looking for a good deal. , मैं एक अच्छा सौदा ढूंढ रहा हूँ।,"['▁I', '▁am', '▁looking', '▁for', '▁a', '▁good', '▁deal', '.']","['▁मैं', '▁एक', '▁अच्छा', '▁सौदा', '▁ढूंढ', '▁रहा', '▁हूँ', '।']",False
+Can you recommend a good movie? - क्या आप एक अच्छी फिल्म सुझा सकते हैं?,Can you recommend a good movie? , क्या आप एक अच्छी फिल्म सुझा सकते हैं?,"['▁Can', '▁you', '▁recommend', '▁a', '▁good', '▁movie', '?']","['▁क्या', '▁आप', '▁एक', '▁अच्छी', '▁फिल्म', '▁सुझा', '▁सकते', '▁हैं', '?']",False
+Go straight - सीधे जाइए,Go straight , सीधे जाइए,"['▁Go', '▁straight']","['▁सीधे', '▁जाइए']",False
+Nothing happened - कुछ नहीं हुआ,Nothing happened , कुछ नहीं हुआ,"['▁', 'N', 'othing', '▁happened']","['▁कुछ', '▁नहीं', '▁हुआ']",False
+I like to read before bed. - मुझे सोने से पहले पढ़ना पसंद है।,I like to read before bed. , मुझे सोने से पहले पढ़ना पसंद है।,"['▁I', '▁like', '▁to', '▁read', '▁before', '▁bed', '.']","['▁मुझे', '▁सोने', '▁से', '▁पहले', '▁पढ़ना', '▁पसंद', '▁है', '।']",False
+I like to eat chocolate. - मुझे चॉकलेट खाना पसंद है।,I like to eat chocolate. , मुझे चॉकलेट खाना पसंद है।,"['▁I', '▁like', '▁to', '▁eat', '▁chocolate', '.']","['▁मुझे', '▁चॉकलेट', '▁खाना', '▁पसंद', '▁है', '।']",False
+I don't understand - मैं नहीं समझा,I don't understand , मैं नहीं समझा,"['▁I', '▁don', ""'"", 't', '▁understand']","['▁मैं', '▁नहीं', '▁समझा']",False
+I need to buy some clothes - मुझे कुछ कपड़े खरीदने हैं,I need to buy some clothes , मुझे कुछ कपड़े खरीदने हैं,"['▁I', '▁need', '▁to', '▁buy', '▁some', '▁clothes']","['▁मुझे', '▁कुछ', '▁कपड़े', '▁खरीदने', '▁हैं']",False
+I need a new phone case. - मुझे नया फोन केस चाहिए।,I need a new phone case. , मुझे नया फोन केस चाहिए।,"['▁I', '▁need', '▁a', '▁new', '▁phone', '▁case', '.']","['▁मुझे', '▁नया', '▁फोन', '▁केस', '▁चाहिए', '।']",False
+Let's go to the park - चलो पार्क चलें,Let's go to the park , चलो पार्क चलें,"['▁Let', ""'"", 's', '▁go', '▁to', '▁the', '▁park']","['▁चलो', '▁पार्क', '▁चलें']",False
+I am learning English - मैं अंग्रेज़ी सीख रहा हूँ,I am learning English , मैं अंग्रेज़ी सीख रहा हूँ,"['▁I', '▁am', '▁learning', '▁English']","['▁मैं', '▁अंग्रेज़ी', '▁सीख', '▁रहा', '▁हूँ']",False
+Come here - यहाँ आइए,Come here , यहाँ आइए,"['▁Come', '▁here']","['▁यहाँ', '▁आइए']",False
+I am learning to drive. - मैं गाड़ी चलाना सीख रहा हूँ।,I am learning to drive. , मैं गाड़ी चलाना सीख रहा हूँ।,"['▁I', '▁am', '▁learning', '▁to', '▁drive', '.']","['▁मैं', '▁गाड़ी', '▁चलाना', '▁सीख', '▁रहा', '▁हूँ', '।']",False
+Let's meet tomorrow - चलो कल मिलते हैं,Let's meet tomorrow , चलो कल मिलते हैं,"['▁Let', ""'"", 's', '▁meet', '▁tomorrow']","['▁चलो', '▁कल', '▁मिलते', '▁हैं']",False
+Please don't touch this - कृपया इसे मत छूएं,Please don't touch this , कृपया इसे मत छूएं,"['▁Please', '▁don', ""'"", 't', '▁touch', '▁this']","['▁कृपया', '▁इसे', '▁मत', '▁छूएं']",False
+What is your favorite color? - आपका पसंदीदा रंग कौन सा है?,What is your favorite color? , आपका पसंदीदा रंग कौन सा है?,"['▁What', '▁is', '▁your', '▁favorite', '▁color', '?']","['▁आपका', '▁पसंदीदा', '▁रंग', '▁कौन', '▁सा', '▁है', '?']",False
+Can I make a reservation? - क्या मैं आरक्षण करवा सकता हूँ?,Can I make a reservation? , क्या मैं आरक्षण करवा सकता हूँ?,"['▁Can', '▁I', '▁make', '▁a', '▁reservation', '?']","['▁क्या', '▁मैं', '▁आरक्षण', '▁करवा', '▁सकता', '▁हूँ', '?']",False
+Where can I park my car? - मैं अपनी गाड़ी कहाँ पार्क कर सकता हूँ?,Where can I park my car? , मैं अपनी गाड़ी कहाँ पार्क कर सकता हूँ?,"['▁Where', '▁can', '▁I', '▁park', '▁my', '▁car', '?']","['▁मैं', '▁अपनी', '▁गाड़ी', '▁कहाँ', '▁पार्क', '▁कर', '▁सकता', '▁हूँ', '?']",False
+Can you help me with this? - क्या आप मेरी मदद कर सकते हैं?,Can you help me with this? , क्या आप मेरी मदद कर सकते हैं?,"['▁Can', '▁you', '▁help', '▁me', '▁with', '▁this', '?']","['▁क्या', '▁आप', '▁मेरी', '▁मदद', '▁कर', '▁सकते', '▁हैं', '?']",False
+Where is the nearest train station? - सबसे नज़दीकी ट्रेन स्टेशन कहाँ है?,Where is the nearest train station? , सबसे नज़दीकी ट्रेन स्टेशन कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁train', '▁station', '?']","['▁सबसे', '▁नज़दीकी', '▁ट्रेन', '▁स्टेशन', '▁कहाँ', '▁है', '?']",False
+The food smells delicious. - खाने की खुशबू बहुत स्वादिष्ट है।,The food smells delicious. , खाने की खुशबू बहुत स्वादिष्ट है।,"['▁The', '▁food', '▁smells', '▁delicious', '.']","['▁खाने', '▁की', '▁खुशबू', '▁बहुत', '▁स्वादिष्ट', '▁है', '।']",False
+I need to get to the train station. - मुझे ट्रेन स्टेशन जाना है।,I need to get to the train station. , मुझे ट्रेन स्टेशन जाना है।,"['▁I', '▁need', '▁to', '▁get', '▁to', '▁the', '▁train', '▁station', '.']","['▁मुझे', '▁ट्रेन', '▁स्टेशन', '▁जाना', '▁है', '।']",False
+I am looking for a book - मैं एक किताब ढूंढ रहा हूँ,I am looking for a book , मैं एक किताब ढूंढ रहा हूँ,"['▁I', '▁am', '▁looking', '▁for', '▁a', '▁book']","['▁मैं', '▁एक', '▁किताब', '▁ढूंढ', '▁रहा', '▁हूँ']",False
+I am feeling sick - मैं बीमार महसूस कर रहा हूँ,I am feeling sick , मैं बीमार महसूस कर रहा हूँ,"['▁I', '▁am', '▁feeling', '▁sick']","['▁मैं', '▁बीमार', '▁महसूस', '▁कर', '▁रहा', '▁हूँ']",False
+Be careful - सावधान रहिए,Be careful , सावधान रहिए,"['▁Be', '▁careful']","['▁सावधान', '▁रहिए']",False
+Please give me a discount - कृपया मुझे छूट दें,Please give me a discount , कृपया मुझे छूट दें,"['▁Please', '▁give', '▁me', '▁a', '▁discount']","['▁कृपया', '▁मुझे', '▁छूट', '▁दें']",False
+I need a vacation. - मुझे छुट्टी की ज़रूरत है।,I need a vacation. , मुझे छुट्टी की ज़रूरत है।,"['▁I', '▁need', '▁a', '▁vacation', '.']","['▁मुझे', '▁छुट्टी', '▁की', '▁ज़रूरत', '▁है', '।']",False
+I need an umbrella - मुझे छाता चाहिए,I need an umbrella , मुझे छाता चाहिए,"['▁I', '▁need', '▁an', '▁umbrella']","['▁मुझे', '▁छाता', '▁चाहिए']",False
+I am feeling tired - मैं थका हुआ महसूस कर रहा हूँ,I am feeling tired , मैं थका हुआ महसूस कर रहा हूँ,"['▁I', '▁am', '▁feeling', '▁tired']","['▁मैं', '▁थका', '▁हुआ', '▁महसूस', '▁कर', '▁रहा', '▁हूँ']",False
+Can you explain that again? - क्या आप फिर से समझा सकते हैं?,Can you explain that again? , क्या आप फिर से समझा सकते हैं?,"['▁Can', '▁you', '▁explain', '▁that', '▁again', '?']","['▁क्या', '▁आप', '▁फिर', '▁से', '▁समझा', '▁सकते', '▁हैं', '?']",False
+Where can I buy this? - मैं इसे कहाँ खरीद सकता हूँ?,Where can I buy this? , मैं इसे कहाँ खरीद सकता हूँ?,"['▁Where', '▁can', '▁I', '▁buy', '▁this', '?']","['▁मैं', '▁इसे', '▁कहाँ', '▁खरीद', '▁सकता', '▁हूँ', '?']",False
+Where is the nearest bank? - सबसे नज़दीकी बैंक कहाँ है?,Where is the nearest bank? , सबसे नज़दीकी बैंक कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁bank', '?']","['▁सबसे', '▁नज़दीकी', '▁बैंक', '▁कहाँ', '▁है', '?']",False
+Where can I buy clothes? - मैं कपड़े कहाँ खरीद सकता हूँ?,Where can I buy clothes? , मैं कपड़े कहाँ खरीद सकता हूँ?,"['▁Where', '▁can', '▁I', '▁buy', '▁clothes', '?']","['▁मैं', '▁कपड़े', '▁कहाँ', '▁खरीद', '▁सकता', '▁हूँ', '?']",False
+I’m not sure if I can make it. - मुझे यकीन नहीं है कि मैं कर पाऊँगा।,I’m not sure if I can make it. , मुझे यकीन नहीं है कि मैं कर पाऊँगा।,"['▁I', '’', 'm', '▁not', '▁sure', '▁if', '▁I', '▁can', '▁make', '▁it', '.']","['▁मुझे', '▁यकीन', '▁नहीं', '▁है', '▁कि', '▁मैं', '▁कर', '▁पा', 'ऊ', 'ँगा', '।']",False
+Speak slowly - धीरे बोलिए,Speak slowly , धीरे बोलिए,"['▁Speak', '▁slowly']","['▁धीरे', '▁बोलिए']",False
+I am going to the office - मैं ऑफिस जा रहा हूँ,I am going to the office , मैं ऑफिस जा रहा हूँ,"['▁I', '▁am', '▁going', '▁to', '▁the', '▁office']","['▁मैं', '▁ऑफिस', '▁जा', '▁रहा', '▁हूँ']",False
+Where can I find a taxi? - मुझे टैक्सी कहाँ मिलेगी?,Where can I find a taxi? , मुझे टैक्सी कहाँ मिलेगी?,"['▁Where', '▁can', '▁I', '▁find', '▁a', '▁taxi', '?']","['▁मुझे', '▁टैक्सी', '▁कहाँ', '▁मिलेगी', '?']",False
+Where is my baggage? - मेरा सामान कहाँ है?,Where is my baggage? , मेरा सामान कहाँ है?,"['▁Where', '▁is', '▁my', '▁baggage', '?']","['▁मेरा', '▁सामान', '▁कहाँ', '▁है', '?']",False
+How do I get there? - मैं वहाँ कैसे पहुँच सकता हूँ?,How do I get there? , मैं वहाँ कैसे पहुँच सकता हूँ?,"['▁How', '▁do', '▁I', '▁get', '▁there', '?']","['▁मैं', '▁वहाँ', '▁कैसे', '▁पहुँच', '▁सकता', '▁हूँ', '?']",False
+It’s very foggy today. - आज बहुत धुंआ है।,It’s very foggy today. , आज बहुत धुंआ है।,"['▁It', '’', 's', '▁very', '▁foggy', '▁today', '.']","['▁आज', '▁बहुत', '▁धुंआ', '▁है', '।']",False
+Can I get some coffee? - क्या मुझे कुछ कॉफी मिल सकती है?,Can I get some coffee? , क्या मुझे कुछ कॉफी मिल सकती है?,"['▁Can', '▁I', '▁get', '▁some', '▁coffee', '?']","['▁क्या', '▁मुझे', '▁कुछ', '▁कॉफी', '▁मिल', '▁सकती', '▁है', '?']",False
+It's raining - बारिश हो रही है,It's raining , बारिश हो रही है,"['▁It', ""'"", 's', '▁raining']","['▁बारिश', '▁हो', '▁रही', '▁है']",False
+I am late - मैं देर से आ रहा हूँ,I am late , मैं देर से आ रहा हूँ,"['▁I', '▁am', '▁late']","['▁मैं', '▁देर', '▁से', '▁आ', '▁रहा', '▁हूँ']",False
+This city is very crowded. - यह शहर बहुत भीड़-भाड़ वाला है।,This city is very crowded. , यह शहर बहुत भीड़-भाड़ वाला है।,"['▁This', '▁city', '▁is', '▁very', '▁crowded', '.']","['▁यह', '▁शहर', '▁बहुत', '▁भीड़', '-', 'भाड़', '▁वाला', '▁है', '।']",False
+I’m going to the library. - मैं पुस्तकालय जा रहा हूँ।,I’m going to the library. , मैं पुस्तकालय जा रहा हूँ।,"['▁I', '’', 'm', '▁going', '▁to', '▁the', '▁library', '.']","['▁मैं', '▁पुस्तकालय', '▁जा', '▁रहा', '▁हूँ', '।']",False
+Please smile - कृपया मुस्कुराइए,Please smile , कृपया मुस्कुराइए,"['▁Please', '▁smile']","['▁कृपया', '▁मुस्कुराइए']",False
+I have to finish this work. - मुझे यह काम खत्म करना है।,I have to finish this work. , मुझे यह काम खत्म करना है।,"['▁I', '▁have', '▁to', '▁finish', '▁this', '▁work', '.']","['▁मुझे', '▁यह', '▁काम', '▁खत्म', '▁करना', '▁है', '।']",False
+Do you have a map? - क्या आपके पास नक्शा है?,Do you have a map? , क्या आपके पास नक्शा है?,"['▁Do', '▁you', '▁have', '▁a', '▁map', '?']","['▁क्या', '▁आपके', '▁पास', '▁नक्शा', '▁है', '?']",False
+I need a doctor - मुझे डॉक्टर की ज़रूरत है,I need a doctor , मुझे डॉक्टर की ज़रूरत है,"['▁I', '▁need', '▁a', '▁doctor']","['▁मुझे', '▁डॉक्टर', '▁की', '▁ज़रूरत', '▁है']",False
+It’s very noisy here - यहाँ बहुत शोर है,It’s very noisy here , यहाँ बहुत शोर है,"['▁It', '’', 's', '▁very', '▁noisy', '▁here']","['▁यहाँ', '▁बहुत', '▁शोर', '▁है']",False
+I am running late. - मैं देर से आ रहा हूँ।,I am running late. , मैं देर से आ रहा हूँ।,"['▁I', '▁am', '▁running', '▁late', '.']","['▁मैं', '▁देर', '▁से', '▁आ', '▁रहा', '▁हूँ', '।']",False
+I am looking for a gift - मैं एक उपहार ढूंढ रहा हूँ,I am looking for a gift , मैं एक उपहार ढूंढ रहा हूँ,"['▁I', '▁am', '▁looking', '▁for', '▁a', '▁gift']","['▁मैं', '▁एक', '▁उपहार', '▁ढूंढ', '▁रहा', '▁हूँ']",False
+I am sorry - मुझे खेद है,I am sorry , मुझे खेद है,"['▁I', '▁am', '▁sorry']","['▁मुझे', '▁खेद', '▁है']",False
+Can you help me? - क्या आप मेरी मदद कर सकते हैं?,Can you help me? , क्या आप मेरी मदद कर सकते हैं?,"['▁Can', '▁you', '▁help', '▁me', '?']","['▁क्या', '▁आप', '▁मेरी', '▁मदद', '▁कर', '▁सकते', '▁हैं', '?']",False
+Where is the nearest metro station? - सबसे नज़दीकी मेट्रो स्टेशन कहाँ है?,Where is the nearest metro station? , सबसे नज़दीकी मेट्रो स्टेशन कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁metro', '▁station', '?']","['▁सबसे', '▁नज़दीकी', '▁मेट्रो', '▁स्टेशन', '▁कहाँ', '▁है', '?']",False
+I like to travel during the holidays. - मुझे छुट्टियों में यात्रा करना पसंद है।,I like to travel during the holidays. , मुझे छुट्टियों में यात्रा करना पसंद है।,"['▁I', '▁like', '▁to', '▁travel', '▁during', '▁the', '▁holidays', '.']","['▁मुझे', '▁छुट्टियों', '▁में', '▁यात्रा', '▁करना', '▁पसंद', '▁है', '।']",False
+I need a guide - मुझे एक गाइड चाहिए,I need a guide , मुझे एक गाइड चाहिए,"['▁I', '▁need', '▁a', '▁guide']","['▁मुझे', '▁एक', '▁गाइड', '▁चाहिए']",False
+I am waiting for someone - मैं किसी का इंतजार कर रहा हूं,I am waiting for someone , मैं किसी का इंतजार कर रहा हूं,"['▁I', '▁am', '▁waiting', '▁for', '▁someone']","['▁मैं', '▁किसी', '▁का', '▁इंतजार', '▁कर', '▁रहा', '▁हूं']",False
+I want to try something new. - मैं कुछ नया ट्राई करना चाहता हूँ।,I want to try something new. , मैं कुछ नया ट्राई करना चाहता हूँ।,"['▁I', '▁want', '▁to', '▁try', '▁something', '▁new', '.']","['▁मैं', '▁कुछ', '▁नया', '▁ट्राई', '▁करना', '▁चाहता', '▁हूँ', '।']",False
+Stop here - यहाँ रुकिए,Stop here , यहाँ रुकिए,"['▁Stop', '▁here']","['▁यहाँ', '▁रुकिए']",False
+Wait a moment - एक क्षण रुकिए,Wait a moment , एक क्षण रुकिए,"['▁Wait', '▁a', '▁moment']","['▁एक', '▁क्षण', '▁रुकिए']",False
+Where can I buy a SIM card? - मैं सिम कार्ड कहाँ खरीद सकता हूँ?,Where can I buy a SIM card? , मैं सिम कार्ड कहाँ खरीद सकता हूँ?,"['▁Where', '▁can', '▁I', '▁buy', '▁a', '▁SIM', '▁card', '?']","['▁मैं', '▁सिम', '▁कार्ड', '▁कहाँ', '▁खरीद', '▁सकता', '▁हूँ', '?']",False
+I need a ticket - मुझे टिकट चाहिए,I need a ticket , मुझे टिकट चाहिए,"['▁I', '▁need', '▁a', '▁ticket']","['▁मुझे', '▁टिकट', '▁चाहिए']",False
+What are you doing? - आप क्या कर रहे हैं?,What are you doing? , आप क्या कर रहे हैं?,"['▁What', '▁are', '▁you', '▁doing', '?']","['▁आप', '▁क्या', '▁कर', '▁रहे', '▁हैं', '?']",False
+I am busy right now - मैं अभी व्यस्त हूँ,I am busy right now , मैं अभी व्यस्त हूँ,"['▁I', '▁am', '▁busy', '▁right', '▁now']","['▁मैं', '▁अभी', '▁व्यस्त', '▁हूँ']",False
+Go there - वहाँ जाइए,Go there , वहाँ जाइए,"['▁Go', '▁there']","['▁वहाँ', '▁जाइए']",False
+How far is the hospital from here? - यहाँ से अस्पताल कितनी दूर है?,How far is the hospital from here? , यहाँ से अस्पताल कितनी दूर है?,"['▁How', '▁far', '▁is', '▁the', '▁hospital', '▁from', '▁here', '?']","['▁यहाँ', '▁से', '▁अस्पताल', '▁कितनी', '▁दूर', '▁है', '?']",False
+Can you take me to the airport? - क्या आप मुझे एयरपोर्ट छोड़ सकते हैं?,Can you take me to the airport? , क्या आप मुझे एयरपोर्ट छोड़ सकते हैं?,"['▁Can', '▁you', '▁take', '▁me', '▁to', '▁the', '▁airport', '?']","['▁क्या', '▁आप', '▁मुझे', '▁एयरपोर्ट', '▁छोड़', '▁सकते', '▁हैं', '?']",False
+I don’t have any plans this weekend. - इस सप्ताहांत के लिए मेरी कोई योजनाएँ नहीं हैं।,I don’t have any plans this weekend. , इस सप्ताहांत के लिए मेरी कोई योजनाएँ नहीं हैं।,"['▁I', '▁don', '’', 't', '▁have', '▁any', '▁plans', '▁this', '▁weekend', '.']","['▁इस', '▁सप्ताहांत', '▁के', '▁लिए', '▁मेरी', '▁कोई', '▁योजनाएँ', '▁नहीं', '▁हैं', '।']",False
+Can you take a photo of me? - क्या आप मेरी फोटो खींच सकते हैं?,Can you take a photo of me? , क्या आप मेरी फोटो खींच सकते हैं?,"['▁Can', '▁you', '▁take', '▁a', '▁photo', '▁of', '▁me', '?']","['▁क्या', '▁आप', '▁मेरी', '▁फोटो', '▁खींच', '▁सकते', '▁हैं', '?']",False
+Can you show me the way? - क्या आप मुझे रास्ता दिखा सकते हैं?,Can you show me the way? , क्या आप मुझे रास्ता दिखा सकते हैं?,"['▁Can', '▁you', '▁show', '▁me', '▁the', '▁way', '?']","['▁क्या', '▁आप', '▁मुझे', '▁रास्ता', '▁दिखा', '▁सकते', '▁हैं', '?']",False
+Where can I find food? - मुझे खाना कहाँ मिलेगा?,Where can I find food? , मुझे खाना कहाँ मिलेगा?,"['▁Where', '▁can', '▁I', '▁find', '▁food', '?']","['▁मुझे', '▁खाना', '▁कहाँ', '▁मिलेगा', '?']",False
+Listen to me - मेरी बात सुनो,Listen to me , मेरी बात सुनो,"['▁Listen', '▁to', '▁me']","['▁मेरी', '▁बात', '▁सुनो']",False
+Where are you going? - आप कहाँ जा रहे हैं?,Where are you going? , आप कहाँ जा रहे हैं?,"['▁Where', '▁are', '▁you', '▁going', '?']","['▁आप', '▁कहाँ', '▁जा', '▁रहे', '▁हैं', '?']",False
+Can I get a coffee to go? - क्या मुझे कॉफी लेकर जा सकता हूँ?,Can I get a coffee to go? , क्या मुझे कॉफी लेकर जा सकता हूँ?,"['▁Can', '▁I', '▁get', '▁a', '▁coffee', '▁to', '▁go', '?']","['▁क्या', '▁मुझे', '▁कॉफी', '▁लेकर', '▁जा', '▁सकता', '▁हूँ', '?']",False
+What happened? - क्या हुआ?,What happened? , क्या हुआ?,"['▁What', '▁happened', '?']","['▁क्या', '▁हुआ', '?']",False
+I enjoy reading - मुझे पढ़ना पसंद है,I enjoy reading , मुझे पढ़ना पसंद है,"['▁I', '▁enjoy', '▁reading']","['▁मुझे', '▁पढ़ना', '▁पसंद', '▁है']",False
+I am learning Hindi - मैं हिंदी सीख रहा हूं,I am learning Hindi , मैं हिंदी सीख रहा हूं,"['▁I', '▁am', '▁learning', '▁Hindi']","['▁मैं', '▁हिंदी', '▁सीख', '▁रहा', '▁हूं']",False
+Be quiet - चुप रहिए,Be quiet , चुप रहिए,"['▁Be', '▁quiet']","['▁चुप', '▁रहिए']",False
+I am vegetarian - मैं शाकाहारी हूँ,I am vegetarian , मैं शाकाहारी हूँ,"['▁I', '▁am', '▁vegetarian']","['▁मैं', '▁शाकाहारी', '▁हूँ']",False
+I love watching movies. - मुझे फिल्में देखना बहुत पसंद है।,I love watching movies. , मुझे फिल्में देखना बहुत पसंद है।,"['▁I', '▁love', '▁watching', '▁movies', '.']","['▁मुझे', '▁फिल्में', '▁देखना', '▁बहुत', '▁पसंद', '▁है', '।']",False
+It's too expensive - यह बहुत महंगा है,It's too expensive , यह बहुत महंगा है,"['▁It', ""'"", 's', '▁too', '▁expensive']","['▁यह', '▁बहुत', '▁महंगा', '▁है']",False
+I want to buy a gift for my friend. - मुझे अपने दोस्त के लिए एक तोहफा खरीदना है।,I want to buy a gift for my friend. , मुझे अपने दोस्त के लिए एक तोहफा खरीदना है।,"['▁I', '▁want', '▁to', '▁buy', '▁a', '▁gift', '▁for', '▁my', '▁friend', '.']","['▁मुझे', '▁अपने', '▁दोस्त', '▁के', '▁लिए', '▁एक', '▁तोहफा', '▁खरीदना', '▁है', '।']",False
+I have a stomach ache - मुझे पेट में दर्द हो रहा है,I have a stomach ache , मुझे पेट में दर्द हो रहा है,"['▁I', '▁have', '▁a', '▁stomach', '▁ache']","['▁मुझे', '▁पेट', '▁में', '▁दर्द', '▁हो', '▁रहा', '▁है']",False
+Can you recommend a good restaurant? - क्या आप एक अच्छा रेस्टोरेंट सुझा सकते हैं?,Can you recommend a good restaurant? , क्या आप एक अच्छा रेस्टोरेंट सुझा सकते हैं?,"['▁Can', '▁you', '▁recommend', '▁a', '▁good', '▁restaurant', '?']","['▁क्या', '▁आप', '▁एक', '▁अच्छा', '▁रेस्टोरेंट', '▁सुझा', '▁सकते', '▁हैं', '?']",False
+Where is the nearest pharmacy? - सबसे नज़दीकी दवाई की दुकान कहाँ है?,Where is the nearest pharmacy? , सबसे नज़दीकी दवाई की दुकान कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁pharmacy', '?']","['▁सबसे', '▁नज़दीकी', '▁दवाई', '▁की', '▁दुकान', '▁कहाँ', '▁है', '?']",False
+Can I help you? - क्या मैं आपकी मदद कर सकता हूं?,Can I help you? , क्या मैं आपकी मदद कर सकता हूं?,"['▁Can', '▁I', '▁help', '▁you', '?']","['▁क्या', '▁मैं', '▁आपकी', '▁मदद', '▁कर', '▁सकता', '▁हूं', '?']",False
+This book is very interesting. - यह किताब बहुत दिलचस्प है।,This book is very interesting. , यह किताब बहुत दिलचस्प है।,"['▁This', '▁book', '▁is', '▁very', '▁interesting', '.']","['▁यह', '▁किताब', '▁बहुत', '▁दिलचस्प', '▁है', '।']",False
+Can I use your bathroom? - क्या मैं आपका बाथरूम इस्तेमाल कर सकता हूँ?,Can I use your bathroom? , क्या मैं आपका बाथरूम इस्तेमाल कर सकता हूँ?,"['▁Can', '▁I', '▁use', '▁your', '▁bathroom', '?']","['▁क्या', '▁मैं', '▁आपका', '▁बाथरूम', '▁इस्तेमाल', '▁कर', '▁सकता', '▁हूँ', '?']",False
+It’s too hot to go outside. - बाहर जाने के लिए बहुत गर्मी है।,It’s too hot to go outside. , बाहर जाने के लिए बहुत गर्मी है।,"['▁It', '’', 's', '▁too', '▁hot', '▁to', '▁go', '▁outside', '.']","['▁बाहर', '▁जाने', '▁के', '▁लिए', '▁बहुत', '▁गर्मी', '▁है', '।']",False
+Turn right - दाएँ मुड़िए,Turn right , दाएँ मुड़िए,"['▁Turn', '▁right']","['▁दाएँ', '▁मुड़िए']",False
+I’m going to visit my parents. - मैं अपने माता-पिता से मिलने जा रहा हूँ।,I’m going to visit my parents. , मैं अपने माता-पिता से मिलने जा रहा हूँ।,"['▁I', '’', 'm', '▁going', '▁to', '▁visit', '▁my', '▁parents', '.']","['▁मैं', '▁अपने', '▁माता', '-', 'पिता', '▁से', '▁मिलने', '▁जा', '▁रहा', '▁हूँ', '।']",False
+Do you have any plans for today? - क्या आपके पास आज के लिए कोई योजनाएँ हैं?,Do you have any plans for today? , क्या आपके पास आज के लिए कोई योजनाएँ हैं?,"['▁Do', '▁you', '▁have', '▁any', '▁plans', '▁for', '▁today', '?']","['▁क्या', '▁आपके', '▁पास', '▁आज', '▁के', '▁लिए', '▁कोई', '▁योजनाएँ', '▁हैं', '?']",False
+My phone battery is dying. - मेरे फोन की बैटरी खत्म हो रही है।,My phone battery is dying. , मेरे फोन की बैटरी खत्म हो रही है।,"['▁My', '▁phone', '▁battery', '▁is', '▁dying', '.']","['▁मेरे', '▁फोन', '▁की', '▁बैटरी', '▁खत्म', '▁हो', '▁रही', '▁है', '।']",False
+I am just looking - मैं बस देख रहा हूँ,I am just looking , मैं बस देख रहा हूँ,"['▁I', '▁am', '▁just', '▁looking']","['▁मैं', '▁बस', '▁देख', '▁रहा', '▁हूँ']",False
+I need a haircut. - मुझे बाल कटवाने हैं।,I need a haircut. , मुझे बाल कटवाने हैं।,"['▁I', '▁need', '▁a', '▁haircut', '.']","['▁मुझे', '▁बाल', '▁कटवाने', '▁हैं', '।']",False
+What is the temperature today? - आज का तापमान कितना है?,What is the temperature today? , आज का तापमान कितना है?,"['▁What', '▁is', '▁the', '▁temperature', '▁today', '?']","['▁आज', '▁का', '▁तापमान', '▁कितना', '▁है', '?']",False
+I am leaving now - मैं अब जा रहा हूँ,I am leaving now , मैं अब जा रहा हूँ,"['▁I', '▁am', '▁leaving', '▁now']","['▁मैं', '▁अब', '▁जा', '▁रहा', '▁हूँ']",False
+Where is the library? - पुस्तकालय कहाँ है?,Where is the library? , पुस्तकालय कहाँ है?,"['▁Where', '▁is', '▁the', '▁library', '?']","['▁पुस्तकालय', '▁कहाँ', '▁है', '?']",False
+I need a nap - मुझे झपकी लेनी है,I need a nap , मुझे झपकी लेनी है,"['▁I', '▁need', '▁a', '▁nap']","['▁मुझे', '▁झपकी', '▁लेनी', '▁है']",False
+Let's go shopping - चलो खरीदारी करने चलें,Let's go shopping , चलो खरीदारी करने चलें,"['▁Let', ""'"", 's', '▁go', '▁shopping']","['▁चलो', '▁खरीदारी', '▁करने', '▁चलें']",False
+How long will it take? - इसमें कितना समय लगेगा?,How long will it take? , इसमें कितना समय लगेगा?,"['▁How', '▁long', '▁will', '▁it', '▁take', '?']","['▁इसमें', '▁कितना', '▁समय', '▁लगेगा', '?']",False
+Can I sit here? - क्या मैं यहाँ बैठ सकता हूँ?,Can I sit here? , क्या मैं यहाँ बैठ सकता हूँ?,"['▁Can', '▁I', '▁sit', '▁here', '?']","['▁क्या', '▁मैं', '▁यहाँ', '▁बैठ', '▁सकता', '▁हूँ', '?']",False
+I need to find a parking spot. - मुझे एक पार्किंग की जगह ढूँढनी है।,I need to find a parking spot. , मुझे एक पार्किंग की जगह ढूँढनी है।,"['▁I', '▁need', '▁to', '▁find', '▁a', '▁parking', '▁spot', '.']","['▁मुझे', '▁एक', '▁पार्किंग', '▁की', '▁जगह', '▁ढूँढनी', '▁है', '।']",False
+Hello - नमस्ते,Hello , नमस्ते,['▁Hello'],['▁नमस्ते'],False
+What is this called? - इसे क्या कहते हैं?,What is this called? , इसे क्या कहते हैं?,"['▁What', '▁is', '▁this', '▁called', '?']","['▁इसे', '▁क्या', '▁कहते', '▁हैं', '?']",False
+Do you have change? - क्या आपके पास छुट्टे हैं?,Do you have change? , क्या आपके पास छुट्टे हैं?,"['▁Do', '▁you', '▁have', '▁change', '?']","['▁क्या', '▁आपके', '▁पास', '▁छुट्टे', '▁हैं', '?']",False
+I like this - मुझे यह पसंद है,I like this , मुझे यह पसंद है,"['▁I', '▁like', '▁this']","['▁मुझे', '▁यह', '▁पसंद', '▁है']",False
+"Can I have the check, please? - क्या मुझे चेक मिल सकता है?","Can I have the check, please? ", क्या मुझे चेक मिल सकता है?,"['▁Can', '▁I', '▁have', '▁the', '▁check', ',', '▁please', '?']","['▁क्या', '▁मुझे', '▁चेक', '▁मिल', '▁सकता', '▁है', '?']",False
+I want to visit the museum. - मुझे म्यूज़ियम जाना है।,I want to visit the museum. , मुझे म्यूज़ियम जाना है।,"['▁I', '▁want', '▁to', '▁visit', '▁the', '▁museum', '.']","['▁मुझे', '▁म्यूज़ियम', '▁जाना', '▁है', '।']",False
+I’m trying to learn Spanish. - मैं स्पेनिश सीखने की कोशिश कर रहा हूँ।,I’m trying to learn Spanish. , मैं स्पेनिश सीखने की कोशिश कर रहा हूँ।,"['▁I', '’', 'm', '▁trying', '▁to', '▁learn', '▁Spanish', '.']","['▁मैं', '▁स्पेनिश', '▁सीखने', '▁की', '▁कोशिश', '▁कर', '▁रहा', '▁हूँ', '।']",False
+Where is the nearest hospital? - सबसे नज़दीकी अस्पताल कहाँ है?,Where is the nearest hospital? , सबसे नज़दीकी अस्पताल कहाँ है?,"['▁Where', '▁is', '▁the', '▁nearest', '▁hospital', '?']","['▁सबसे', '▁नज़दीकी', '▁अस्पताल', '▁कहाँ', '▁है', '?']",False
+This is too spicy - यह बहुत मसालेदार है,This is too spicy , यह बहुत मसालेदार है,"['▁This', '▁is', '▁too', '▁spicy']","['▁यह', '▁बहुत', '▁मसालेदार', '▁है']",False
+I want to go to the beach. - मुझे समुद्र तट पर जाना है।,I want to go to the beach. , मुझे समुद्र तट पर जाना है।,"['▁I', '▁want', '▁to', '▁go', '▁to', '▁the', '▁beach', '.']","['▁मुझे', '▁समुद्र', '▁तट', '▁पर', '▁जाना', '▁है', '।']",False
+I am 25 years old - मैं 25 साल का हूँ,I am 25 years old , मैं 25 साल का हूँ,"['▁I', '▁am', '▁25', '▁years', '▁old']","['▁मैं', '▁25', '▁साल', '▁का', '▁हूँ']",False
+What is your phone number? - आपका फ़ोन नंबर क्या है?,What is your phone number? , आपका फ़ोन नंबर क्या है?,"['▁What', '▁is', '▁your', '▁phone', '▁number', '?']","['▁आपका', '▁फ़ोन', '▁नंबर', '▁क्या', '▁है', '?']",False
+I love India - मैं भारत से प्यार करता हूं,I love India , मैं भारत से प्यार करता हूं,"['▁I', '▁love', '▁India']","['▁मैं', '▁भारत', '▁से', '▁प्यार', '▁करता', '▁हूं']",False
+I need to exchange money - मुझे पैसे बदलने हैं,I need to exchange money , मुझे पैसे बदलने हैं,"['▁I', '▁need', '▁to', '▁exchange', '▁money']","['▁मुझे', '▁पैसे', '▁बदलने', '▁हैं']",False
+I need to buy a phone - मुझे एक फोन खरीदना है,I need to buy a phone , मुझे एक फोन खरीदना है,"['▁I', '▁need', '▁to', '▁buy', '▁a', '▁phone']","['▁मुझे', '▁एक', '▁फोन', '▁खरीदना', '▁है']",False
+I need to go to the doctor - मुझे डॉक्टर के पास जाना है,I need to go to the doctor , मुझे डॉक्टर के पास जाना है,"['▁I', '▁need', '▁to', '▁go', '▁to', '▁the', '▁doctor']","['▁मुझे', '▁डॉक्टर', '▁के', '▁पास', '▁जाना', '▁है']",False
+I am studying right now - मैं अभी पढ़ाई कर रहा हूँ,I am studying right now , मैं अभी पढ़ाई कर रहा हूँ,"['▁I', '▁am', '▁studying', '▁right', '▁now']","['▁मैं', '▁अभी', '▁पढ़ाई', '▁कर', '▁रहा', '▁हूँ']",False
+Can I pay in cash? - क्या मैं नकद में भुगतान कर सकता हूँ?,Can I pay in cash? , क्या मैं नकद में भुगतान कर सकता हूँ?,"['▁Can', '▁I', '▁pay', '▁in', '▁cash', '?']","['▁क्या', '▁मैं', '▁नकद', '▁में', '▁भुगतान', '▁कर', '▁सकता', '▁हूँ', '?']",False
+I am not feeling very well. - मुझे ज्यादा अच्छा नहीं लग रहा है।,I am not feeling very well. , मुझे ज्यादा अच्छा नहीं लग रहा है।,"['▁I', '▁am', '▁not', '▁feeling', '▁very', '▁well', '.']","['▁मुझे', '▁ज्यादा', '▁अच्छा', '▁नहीं', '▁लग', '▁रहा', '▁है', '।']",False
+I understand - मैं समझ गया,I understand , मैं समझ गया,"['▁I', '▁understand']","['▁मैं', '▁समझ', '▁गया']",False
+I am thirsty - मुझे प्यास लगी है,I am thirsty , मुझे प्यास लगी है,"['▁I', '▁am', '▁thirsty']","['▁मुझे', '▁प्यास', '▁लगी', '▁है']",False
+Let's take a break - चलो ब्रेक लें,Let's take a break , चलो ब्रेक लें,"['▁Let', ""'"", 's', '▁take', '▁a', '▁break']","['▁चलो', '▁ब्रेक', '▁लें']",False
+Please give me a glass of water. - कृपया मुझे एक गिलास पानी दें।,Please give me a glass of water. , कृपया मुझे एक गिलास पानी दें।,"['▁Please', '▁give', '▁me', '▁a', '▁glass', '▁of', '▁water', '.']","['▁कृपया', '▁मुझे', '▁एक', '▁गिलास', '▁पानी', '▁दें', '।']",False
+Can you repeat that? - क्या आप फिर से कह सकते हैं?,Can you repeat that? , क्या आप फिर से कह सकते हैं?,"['▁Can', '▁you', '▁repeat', '▁that', '?']","['▁क्या', '▁आप', '▁फिर', '▁से', '▁कह', '▁सकते', '▁हैं', '?']",False
+How much is this book? - यह किताब कितने की है?,How much is this book? , यह किताब कितने की है?,"['▁How', '▁much', '▁is', '▁this', '▁book', '?']","['▁यह', '▁किताब', '▁कितने', '▁की', '▁है', '?']",False
+It’s very cheap - यह बहुत सस्ता है,It’s very cheap , यह बहुत सस्ता है,"['▁It', '’', 's', '▁very', '▁cheap']","['▁यह', '▁बहुत', '▁सस्ता', '▁है']",False
+I need some help - मुझे कुछ मदद चाहिए,I need some help , मुझे कुछ मदद चाहिए,"['▁I', '▁need', '▁some', '▁help']","['▁मुझे', '▁कुछ', '▁मदद', '▁चाहिए']",False
+I am sad - मैं दुखी हूं,I am sad , मैं दुखी हूं,"['▁I', '▁am', '▁sad']","['▁मैं', '▁दुखी', '▁हूं']",False
